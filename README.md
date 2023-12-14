@@ -6,7 +6,7 @@
  </head> 
  <body id="v1"> 
   <h1 id="v2">hello!</h1> 
-  <p id="v3">这是一个minecart的U-Craft工会组织网站</p> 
+  <p id="v3">这是一个minecart的U-Craft工会组织网站 </p> 
   <h1 id="v4">如果你想加入</h1> 
   <h1 id="v5">请用QQ搜索群931257694！</h1> 
   <p id="v6">欢迎您的加入！</p> 
